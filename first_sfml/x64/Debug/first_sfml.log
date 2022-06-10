@@ -1,0 +1,5 @@
+﻿  Game.cpp
+D:\VS_AZURE_workspace\first_sfml\first_sfml\Game.cpp(385,10): warning C4102: "deafult": etykieta, do której nie istnieje odwołanie
+  Main.cpp
+  Generowanie kodu...
+  first_sfml.vcxproj -> D:\VS_AZURE_workspace\first_sfml\x64\Debug\first_sfml.exe

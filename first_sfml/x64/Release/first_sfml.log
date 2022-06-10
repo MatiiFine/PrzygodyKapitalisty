@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  first_sfml.vcxproj -> D:\VS_AZURE_workspace\first_sfml\x64\Release\first_sfml.exe
